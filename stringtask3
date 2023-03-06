@@ -1,0 +1,14 @@
+var employee = [{ "name": "ravi", "salary": 60000, "married": true },
+{ "name": "kiran", "salary": 56000, "married": true },
+{ "name": "madhu", "salary": 16000, "married": true },
+{ "name": "deepu", "salary": 60500, "married": true },
+ { "name": "mohan", "salary": 46000, "married": true } ]
+// var c=employee.reduce((a,b)=>{
+// return (a.salary>b.salary)?a:b})
+// console.log(c.name);
+
+
+var a=employee.reduce((b,c)=>{
+    return (b.salary>c.salary)?b:c
+})
+console.log(a.name);
