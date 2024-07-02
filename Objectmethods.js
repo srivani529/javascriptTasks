@@ -109,17 +109,17 @@
        // console.log(c(a,b));
          
 
-       // var a={
-       //        "name":"Ram",
-       //        "age":27,
-       //        "vehicles": [{
-       //           "car":"limousine",
-       //           "bike":"ktm-duke",
-       //           "plane":"lufthansa"
-       //        }]
-       //     }
-       //     var a=vehicles.map(c=>c.car)
-       //     console.log(a);
+     // var a={
+     //           "name":"Ram",
+     //           "age":27,
+     //           "vehicles": [{
+     //              "car":"limousine",
+     //              "bike":"ktm-duke",
+     //              "plane":"lufthansa"
+     //           }]
+     //        }
+     //        var b=a.vehicles.map(c=>c.car)
+     //        console.log(b)
 
 
 
